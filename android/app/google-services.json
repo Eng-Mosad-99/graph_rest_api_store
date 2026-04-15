@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328799846096",
+    "project_id": "graph-rest-store",
+    "storage_bucket": "graph-rest-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328799846096:android:394b69bed1f9d2498f68d5",
+        "android_client_info": {
+          "package_name": "com.example.astro_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGw2A3vSoJ9uZc5dgVqWpj821OupR9blc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
